@@ -1,0 +1,30 @@
+PyCity Schools Analysis Report
+
+
+PyCity Schools Analysis is based on school data to better determine if their budgets are serving them well and to better determine future budget needs.
+
+
+The School Summary output indicated that a higher student budget doesn't always equate to higher scores from the students. 
+School District, Bailey High School has the highest total school budget for its 4,976 students totaling $3,214,938.00. ($628.00 per student)
+Their average passing math percentage and their overall passing percentage are some of the lowest percentages in the School Summary data frame.
+Charter School, Wilson High School has one of the lower school budgets totaling, $1,319,574.00 for its 2,283 students. ($578.00 per student)
+However, Wilson High School has one of the highest passing math percentages and one of the highest overall passing percentages in the data frame.
+
+According to the Scores by School Size data frame, Charter schools have the highest scores across all categories.  
+Cabrera High School has 1,858 students and Griffin High School has 1,468 students. 
+These two schools have average budgets per student compared to the other school districts in this data frame and yet their overall passing scores are much higher.
+
+According to the Scores by School Size data frame:
+Charter schools have smaller class sizes while some Districts have nearly double the number of students.
+School District, Bailey High School has the highest number of students (4,976 total students) and the lowest overall passing percentage of 54.6%.
+Charter school, Griffin High School has the lowest number of students (1,468 total students) and the highest overall passing percentage of 90.5%.
+The difference between these two schools and their overall passing percentage is 65.5%.
+According to this data, I would say that the smaller the class size, the higher the scores are from the students.
+
+According to the Scores by School Type:
+The Scores by School Type data frame displayed similar findings:
+Charter school's overall passing percentage is 90.43%
+District school's overall passing percentage is 53.6%
+The difference between their overall passing percentages is 41.6%
+
+According to these two categories and calculations, I feel it is safe to say that Charter schools on average have better-performing students despite lower budgets compared to large school districts.
